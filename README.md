@@ -44,4 +44,4 @@ I want to focus on creating cleaner code.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chirag1718)
+- Frontend Mentor - [@chirag1718](https://www.frontendmentor.io/profile/chirag1718)
